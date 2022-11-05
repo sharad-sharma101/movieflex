@@ -1,0 +1,23 @@
+.movie__list {
+    padding: 0 3rem 3rem 3rem;
+}
+
+.list__title {
+font-size: 1.75rem;
+/* margin:  2.5rem; */
+background-color: brown;
+font-size: 35px;
+font-weight: 300;
+justify-content: center;
+text-align: center;
+min-height: 80px;
+padding-top: 15px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.list__cards {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
